@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "590721590373",
+    "firebase_url": "https://chat-by-database.firebaseio.com",
+    "project_id": "chat-by-database",
+    "storage_bucket": "chat-by-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590721590373:android:e46c9204659b449f71128c",
+        "android_client_info": {
+          "package_name": "com.smiling.chatbydatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590721590373-1e2ik4bj4fbvph77hpc7l3j5n015ojt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCH9JVqO93cHUqGHdb36mWcxMAGLGXbL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590721590373-1e2ik4bj4fbvph77hpc7l3j5n015ojt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
